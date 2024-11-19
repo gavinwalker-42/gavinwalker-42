@@ -19,8 +19,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="GavinWalker | LinkedIn" width="22px" src="linkedin.com/in/gavin-walker-125446269" />][linkedin]
-[<img align="left" alt="GavinWalker | Instagram" width="22px" src="https://www.instagram.com/gavin_walker_84" />][instagram]
+[<img align="left" alt="GavinWalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GavinWalker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/gavin_walker_84
 [linkedin]: linkedin.com/in/gavin-walker-125446269
