@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gavin!</h1>
 
-<h2>👨‍💻 Cyber Security Professional:</h2>
+<h2>👨‍💻 Cyber Security Projects: <a </h2>
 
 - <b>[Active Directory] () </b>
 
@@ -11,18 +11,3 @@
 
 [instagram]: https://www.instagram.com/gavin_walker_84/
 [linkedin]: https://www.linkedin.com/in/gavinwalker-is42
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
