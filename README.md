@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects: <a </h2>
 
 - <b>[HomeLab] () </b>
+<img width="436" height="346" alt="image" src="https://github.com/user-attachments/assets/1227a5f5-588d-449f-be25-c4d15d228bf4" />
 
 <h2> 🤳 Connect with me:</h2>
 
