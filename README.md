@@ -1,14 +1,23 @@
-<h1>Hi, I'm Gavin!</h1>
+<h1>Hi, I'm Gavin! 👋</h1>
 
-<h2>👨‍💻 Cyber Security Projects: <a </h2>
+<h2>👨‍💻 Cyber Security Projects</h2>
+<ul>
+  <li>
+    <b><a href="https://github.com/gavinwalker-42/Home-Lab" target="_blank">HomeLab</a></b>
+  </li>
+</ul>
 
-- <b>[HomeLab] (https://github.com/gavinwalker-42/Home-Lab) </b>
+<h2>🤳 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/gavinwalker-is42" target="_blank">
+    <img align="left" alt="Gavin Walker | LinkedIn" width="24px" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
+         style="margin-right: 10px;" />
+  </a>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="GavinWalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GavinWalker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/gavin_walker_84/
-[linkedin]: https://www.linkedin.com/in/gavinwalker-is42
+  <a href="https://www.instagram.com/gavin_walker_84/" target="_blank">
+    <img align="left" alt="Gavin Walker | Instagram" width="24px" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
+<br clear="left" />
