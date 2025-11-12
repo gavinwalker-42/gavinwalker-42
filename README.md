@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects: <a </h2>
 
-- <b>[HomeLab] () </b>
+- <b>[HomeLab] (https://github.com/gavinwalker-42/Home-Lab) </b>
 
 
 <h2> 🤳 Connect with me:</h2>
